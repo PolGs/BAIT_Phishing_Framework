@@ -1,6 +1,6 @@
 # BAIT_Phishing_Framework
 
-BAIT is a python phishing framework
+BAIT is a python phishing framework for Instagram
 
 ## Installation
 
