@@ -20,6 +20,11 @@ Saves all collected passwords to data.txt file
 python3 bait.py
 ```
 
+![image](https://user-images.githubusercontent.com/19478700/171910264-13862873-67e6-4c72-850d-f9fade6a5d24.png)
+
+![image](https://user-images.githubusercontent.com/19478700/171910370-1aff0217-7292-4c14-9596-927d7e18cb81.png)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
