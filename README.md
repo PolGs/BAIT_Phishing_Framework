@@ -16,7 +16,7 @@ Execute bait.py script.
 Websites are serverd by default on port 8080.
 
 Serving Instagram phish at http://IP:8080/src/ig/
-Serving Facebook phish at http://IP:8080/src/ig/
+Serving Facebook phish at http://IP:8080/src/facebook/
 
 Saves all collected passwords to data.txt file
 
