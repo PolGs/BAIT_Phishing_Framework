@@ -30,6 +30,9 @@ python3 bait.py
 
 ![image](https://user-images.githubusercontent.com/19478700/172019548-9965884d-046d-4e5b-8ce3-4a10c7322f66.png)
 
+![image](https://user-images.githubusercontent.com/19478700/172020211-f0247c63-300a-4014-8573-1220ce47ce4b.png)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
